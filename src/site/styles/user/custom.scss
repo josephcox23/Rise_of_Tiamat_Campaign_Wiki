@@ -130,3 +130,34 @@ body, body.theme-light, body.theme-dark {
   padding-bottom: 2px !important;
   margin: 14px 0 6px 0 !important;
 }
+/* ========================================================================== */
+/* D&D SOURCEBOOK QUOTE ([!quote]) & INFOBOX ([!infobox]) CALLOUTS            */
+/* ========================================================================== */
+
+.callout[data-callout="quote"],
+.callout[data-callout="infobox"] {
+  background-color: #f4e4c1 !important;
+  border: 1px solid #c9ad6a !important;
+  border-left: 4px solid #922610 !important;
+  border-radius: 2px !important;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.12) !important;
+  padding: 14px 18px !important;
+  margin: 1.25em 0 !important;
+  color: #242527 !important;
+}
+
+.callout[data-callout="quote"] .callout-title,
+.callout[data-callout="infobox"] .callout-title {
+  background: transparent !important;
+  color: #822000 !important;
+  font-weight: 700 !important;
+  font-variant: small-caps;
+  font-size: 1.15em !important;
+  padding: 0 0 4px 0 !important;
+  margin-bottom: 4px !important;
+}
+
+.callout[data-callout="quote"] .callout-icon,
+.callout[data-callout="infobox"] .callout-icon {
+  display: none !important;
+}
