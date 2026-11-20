@@ -10,8 +10,10 @@
 
 ## Factions & Political Powers
 
-* **[[02_NPCs and Factions/Waterdeep Council/Lords Alliance\|Lords Alliance]]** — The high-stakes assembly of Sword Coast delegates, faction leaders, and decision makers. [[[02\|[02]]]
-* **[[02_NPCs and Factions/Cult of the Dragon/Cult of the Dragon\|02_NPCs and Factions/Cult of the Dragon/Cult of the Dragon]]** — The primary antagonists led by Severin and the Wyrmspeakers, attempting to pull Tiamat from the Nine Hells.
+* **[[02_NPCs and Factions/Waterdeep Council/The Council of Waterdeep\|The Council of Waterdeep]]** 
+	* An emergency coalition council composed of high-ranking representatives from the major Sword Coast factions (Lords' Alliance, Harpers, Order of the Gauntlet, Emerald Enclave, and Zhentarim), presided over by the Open Lord of Waterdeep.
+* **[[02_NPCs and Factions/Cult of the Dragon/Cult of the Dragon\|Cult of the Dragon]]** 
+	* The primary antagonists led by Severin and the Wyrmspeakers, attempting to pull Tiamat from the Nine Hells.
 
 ---
 
