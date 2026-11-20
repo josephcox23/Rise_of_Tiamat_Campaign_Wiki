@@ -7,6 +7,8 @@
 
 ## Part 1: The Last Stop on the High Road
 
+Before the party steps off the established highway and into the lawless muck of the Mere of Dead Men, they cross paths with the final remnants of civilization and faction networks operating on the border.
+
 ### The Harper Connection
 
 * **The Encounter:** At *The Waystone*, a crowded coaching inn sitting right on the edge of the high road before the swamp trail begins. A half-elf bard sits near the hearth, performing a specific, subtle melodic theme on a lute.

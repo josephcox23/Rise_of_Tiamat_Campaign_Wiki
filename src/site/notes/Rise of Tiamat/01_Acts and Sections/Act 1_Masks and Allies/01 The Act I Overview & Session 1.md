@@ -5,15 +5,9 @@
 
 # The Morning After & Faction Mobilization
 
-## DM Objective
-In this opening transition, the players realize they are no longer safe staying inside [[z_player/03_Locations/Waterdeep\|Waterdeep]]. The objective is to establish their new baseline at Level 9, deliver the competitive offers from the council factions, and have the party select their logistical backing for **Mission 1 - The Mere of Dead Men**.
-
----
-
-## Scene Setup & Read-Aloud Text
 > The blinding white flash of Lady Laeral’s teleportation magic eventually fades from your eyes, leaving you in the cold, quiet interior of a high-security Lords' Alliance safehouse in the Sea Ward. The ringing in your ears is replaced by the steady, rhythmic drumming of rain against heavy leaded windows. 
 > 
-> You have survived an assassination attempt in the very heart of the city, held an emergency council session, and held fragments of lore detailing weapons of primordial power meant for your hands. But as dawn breaks over [[z_player/03_Locations/Waterdeep\|Waterdeep]], the air feels heavier. You can still feel that faint, sickening tremor beneath the marble floorboards—the city’s ancient protective wards are actively fracturing.
+> You have survived an assassination attempt in the very heart of the city, held an emergency council session, and held fragments of lore detailing weapons of primordial power meant for your hands. But as dawn breaks over [[Rise of Tiamat/03_Locations/Waterdeep\|Waterdeep]], the air feels heavier. You can still feel that faint, sickening tremor beneath the marble floorboards—the city’s ancient protective wards are actively fracturing.
 > 
 > A soft knock sounds at the safehouse door. It isn't an assassin, but a trusted Alliance page. He slides a heavy iron tray beneath the bolt. On it sits a fresh breakfast, a map of the High Road leading north, and five sealed parchment letters, each bearing a different wax crest. The factions have made their moves.
 
@@ -26,7 +20,7 @@ The players have chosen **Lady [[Rise of Tiamat/02_NPCs and Factions/Waterdeep C
 ### 1. The Lords' Alliance (Lady [[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Laeral Silverhand\|Laeral Silverhand]]) — *PRIMARY*
 
 * **The Angle:** Discretion, statecraft, and tracking the destabilization of the North.
-* **The Letter:** *"The tremors you felt are real; our wards are bleeding power. The Cult intends to paralyze [[z_player/03_Locations/Waterdeep\|Waterdeep]] while they secure the Mere of Dead Men. I cannot send an army without triggering a civil panic. Go as ghosts. Take these wards from the palace vaults—let our fading defenses protect you where I cannot send soldiers."*
+* **The Letter:** *"The tremors you felt are real; our wards are bleeding power. The Cult intends to paralyze [[Rise of Tiamat/03_Locations/Waterdeep\|Waterdeep]] while they secure the Mere of Dead Men. I cannot send an army without triggering a civil panic. Go as ghosts. Take these wards from the palace vaults—let our fading defenses protect you where I cannot send soldiers."*
 * **Silver Warding Tokens**
 
 ### 2. The Harpers ([[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Remallia Haventree\|Remallia Haventree]])
@@ -35,17 +29,11 @@ The players have chosen **Lady [[Rise of Tiamat/02_NPCs and Factions/Waterdeep C
 * **The Seed:** Mentions whispers of *Lyraelis Lament* near Everlund.
 * **The Tracked Boon:** Harper Cipher Ring and 2 doses of Dust of Disappearance 
 
-(Can be intercepted in [[Rise of Tiamat/01_Acts and Sections/Act 1_Masks and Allies/02 Act 1 Session 2\|02 Act 1 Session 2]]).
-
 ### 3. The Order of the Gauntlet ([[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Ontharr Frume\|Ontharr Frume]])
 
 * **The Letter:** *"Evil thrives in the dark, but it burns when brought to the light. Sound the call of justice, clear their keep, and shatter their resolve before they can look upon your faces and know fear."*
 * **The Seed:** Mentions a cult cell testing a lightning-wreathed bow string connected to *Stormpiercer*.
 * **The Tracked Boon:** The Lion’s Battle Horn
-
-(Can be intercepted in [[Rise of Tiamat/01_Acts and Sections/Act 1_Masks and Allies/02 Act 1 Session 2\|02 Act 1 Session 2]]).
-
-### 4. The Emerald Enclave (Delaan Winterhound)
 
 * **The Letter:** *"The Mere of Dead Men is a weeping wound, and the cult's presence is turning the wildlife rabid. Respect the wild, or it will become your tomb."*
 * **The Seed:** Mentions a dark magical frequency matching the blockades around [[Ithilin Grove\|Ithilin Grove]].
@@ -91,16 +79,10 @@ description: |
   
   **Cache Coordinates:** The map reveals the exact physical locations of hidden Zhentarim supply caches buried deep within the inner marsh.
 ```
+
 ---
 
-## ⚙️ Mechanics & Transition
-* **The Strategy Lock-In:** +1 Favor Tracker to **Lords' Alliance**.
-* **Swamp Preparation Check:** Collective **DC 14 Wisdom (Survival) or Intelligence (History)** check.
-	* *Success:* Party knows lizardfolk/bullywug regional dynamics; standard social interactions require draconic leverage.
-	* *Failure:* Outer marsh travel takes twice as long, risking an additional hazard encounter.
-* **Next Section:** [[Rise of Tiamat/01_Acts and Sections/Act 1_Masks and Allies/02 Act 1 Session 2\|02 Act 1 Session 2]]
-
 # Session Summary
-
-- Having survived an assassination attempt in [[z_player/03_Locations/Waterdeep\|Waterdeep]], the party regrouped in a Lords' Alliance safehouse. They accepted Lady [[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Laeral Silverhand\|Laeral Silverhand]] as their primary patron, unlocking the Silver Warding Tokens.  
+::pf
+- Having survived an assassination attempt in [[Rise of Tiamat/03_Locations/Waterdeep\|Waterdeep]], the party regrouped in a Lords' Alliance safehouse. They accepted Lady [[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Laeral Silverhand\|Laeral Silverhand]] as their primary patron, unlocking the Silver Warding Tokens.  
 - They received a map of the High Road and faction letters offering competing rewards. The party set out as ghosts to intercept these faction leads while traveling north toward the Mere of Dead Men.  
