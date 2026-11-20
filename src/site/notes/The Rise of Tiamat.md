@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-rise-of-tiamat/","tags":["home","portal","rise-of-tiamat","gardenEntry"],"dg-note-properties":{"tags":["home","portal","rise-of-tiamat","gardenEntry"],"aliases":[],"pfn":true}}
+{"dg-publish":true,"permalink":"/the-rise-of-tiamat/","tags":["home","portal","rise-of-tiamat","gardenEntry"],"dg-note-properties":{"tags":["home","portal","rise-of-tiamat","gardenEntry"],"aliases":[],"pfn":false}}
 ---
 
 > [!quote] The Shadow of the Five-Headed Queen
