@@ -26,20 +26,20 @@
 
 * **Leadership Structure:** A rigid, dogmatic pyramid ruled by **Severin**, the Red Wyrmspeaker and Supreme Leader. Beneath him sit the four other **Wyrmspeakers**—each meant to wield one of the five Dragon Masks and command a chromatic wing of the Cult—supported by regional commanders, Dragonwings, and dark spellcasters.
 * **Notable NPCs:**
-  * **02_NPCs and Factions/Cult of the Dragon/Severin:** 
+  * **Severin:** 
     * *Supreme Leader & Red Wyrmspeaker* — A charismatic, utterly ruthless fanatic whose vision reshaped the Cult into an apocalyptic war machine.
-  * **06_Bestiary/Cult of the Dragon/Wyrmspeaker Rezmir:** 
+  * **[[Rise of Tiamat/02_NPCs and Factions/Cult of the Dragon/Wyrmspeaker Rezmir\|Wyrmspeaker Rezmir]]:** 
     * *Black Wyrmspeaker* — A vicious half-black dragon wielding the sentient greatsword *Hazirawn*. Humiliated by the theft of her Black Dragon Mask, she is personally obsessed with hunting down and destroying the party.
   * **Talis the White:** 
     * *Former Contender for White Wyrmspeaker (Deceased)* — A bitter, aristocratic spellcaster who resented Varram for stealing her promotion; slain by the party in her Greypeak hunting lodge.
-  * **Varram the White:** 
-    * *White Wyrmspeaker* — A desperate, would-be cult leader, currently working to tame the White Dragon Glazhael the Cloudchaser to fully become the White Wyrmspeaker.
-  * **[[Elf-Lord Borngray\|Elf-Lord Borngray]] & [[Rise of Tiamat/06_Bestiary/Cult of the Dragon/Pharblex Spatterdock\|Pharblex Spatterdock]]:** 
+  * **[[Rise of Tiamat/02_NPCs and Factions/Cult of the Dragon/Varram the White\|Varram the White]]:** 
+    * *White Wyrmspeaker* — A desperate, would-be cult leader, currently working to tame the White Dragon [[Rise of Tiamat/02_NPCs and Factions/Cult of the Dragon/Glazhael the Cloudchaser\|Glazhael the Cloudchaser]] to fully become the White Wyrmspeaker.
+  * **[[Rise of Tiamat/02_NPCs and Factions/Cult of the Dragon/Dralmorrer Borngray\|Elf-Lord Borngray]] & [[Rise of Tiamat/02_NPCs and Factions/Cult of the Dragon/Pharblex Spatterdock\|Pharblex Spatterdock]]:** 
     * *Castle Naerytar Lieutenants (Deceased)* — Former overseers of the Cult's Mere of Dead Men smuggling operations, eliminated during the lizardfolk uprising.
 
 ## Territory & Strongholds
 
-* **Primary Base:** [[Well of Dragons\|Well of Dragons]] — A massive, fortified volcanic caldera serving as the Cult's central temple, treasury vault, and ritual site for Tiamat's summoning.
+* **Primary Base:** [[Rise of Tiamat/03_Locations/Well of Dragons\|Well of Dragons]] — A massive, fortified volcanic caldera serving as the Cult's central temple, treasury vault, and ritual site for Tiamat's summoning.
 * **Outposts & Fronts:** 
     * **Active / Contested:** **Skyreach Castle** (a colossal floating cloud-ship loading treasure in Parnast before heading toward the Misty Forest), a lightning-shattered desert canyon stronghold (Blue Mask), and a fiery volcanic cavern (Red Mask).
   * **Fallen / Compromised:** **Castle Naerytar** (overthrown in a lizardfolk rebellion), the **Greypeak Hunting Lodge** (cleared), and **Glazhael’s Iceberg Lair** (neutralized).

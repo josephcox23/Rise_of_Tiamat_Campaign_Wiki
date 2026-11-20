@@ -7,6 +7,11 @@
 
 *An elegant, soft-spoken elven noblewoman who leads the Harpers with quiet resolve after a tragic loss.*
 
+> [!abstract] Quick Profile
+> - **Pronouns:** She/Her
+> - **Race/Age:** Sun Elf (Adult, around 150 years old)
+> - **Voice/Mannerism:** Soft, rhythmic, and calm. She rarely raises her voice, choosing to lean in closer to speak in meaningful whispers.
+
 ---
 
 ## Core Identity
@@ -19,7 +24,7 @@
 ## Connections & Relationships
 
 - **The Party:** Values their connection to the streets and their ability to move undetected. She provides them with magical items geared toward stealth.
-- **Laeral Silverhand:** A close personal friend, though Remallia believes the Harpers must sometimes operate outside the Open Lord's laws.
+- **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Laeral Silverhand\|Laeral Silverhand]]:** A close personal friend, though Remallia believes the Harpers must sometimes operate outside the Open Lord's laws.
 - **The Zhentarim:** Deeply distrusts the Black Network, warning the party that any alliance with them will come with a hidden price.
 
 ---

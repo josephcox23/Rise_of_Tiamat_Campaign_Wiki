@@ -26,21 +26,22 @@
 
 * **Leadership Structure:** An emergency coalition council composed of high-ranking representatives from the major Sword Coast factions (Lords' Alliance, Harpers, Order of the Gauntlet, Emerald Enclave, and Zhentarim), presided over by the Open Lord of Waterdeep.
 * **Notable NPCs:**
-  * **Laeral Silverhand:** *Open Lord of Waterdeep & Council Head* 
+  * **Laeral Silverhand:** *Open Lord of [[Rise of Tiamat/03_Locations/Waterdeep\|Waterdeep]] & Council Head* 
 	* A legendary, powerful mage who acts as the primary patron and strategic anchor for the party, granting them official backing and high-level missions.
  * Dagult Neverember: Lord of Neverwinter, 
 	  * focused heavily on regional defense and resource management.
-  - **Ontharr Frume** (Order of the Gauntlet)
-  - **Remallia Haventree** (Harpers)
-  - **[[Delaan Winterhound\|Delaan Winterhound]]** (Emerald Enclave)
-  - **[[Rian Nightshade\|Rian Nightshade]]** (Zhentarim)
-  - **[[Connerad Brawnanvil\|Connerad Brawnanvil]]** (King of Mithral Hall)
-  - **[[King Melandrach\|King Melandrach]]** (King of the Elves - Misty Forest)
-  - **[[Uldar Ravengard\|Uldar Ravengard]]** (Marshal of Baldur's Gate)
-  - **[[Taern Hornblade\|Taern Hornblade]]** (High Mage of Silerymoon)
-  - **[[Sir Isteval\|Sir Isteval]]** (Knight of Cormyr)
-  - **Faction Envoys & Allies:** Representatives from the Harpers, Order of the Gauntlet, and Emerald Enclave who supply the party with specialized gear, magical boons, and operational support.
+  - **Ontharr Frume** ([[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Order of the Gauntlet\|Order of the Gauntlet]])
+  - **Remallia Haventree** ([[Rise of Tiamat/02_NPCs and Factions/Harpers\|Harpers]])
+  - **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Delaan Winterhound\|Delaan Winterhound]]** ([[Rise of Tiamat/02_NPCs and Factions/Emerald Enclave\|Emerald Enclave]])
+  - **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Rian Nightshade\|Rian Nightshade]]** ([[Rise of Tiamat/02_NPCs and Factions/Zhentarim\|Zhentarim]])
+  - **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Connerad Brawnanvil\|Connerad Brawnanvil]]** (King of Mithral Hall)
+  - **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/King Melandrach\|King Melandrach]]** (King of the Elves - Misty Forest)
+  - **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Uldar Ravengard\|Uldar Ravengard]]** (Marshal of Baldur's Gate)
+  - **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Taern Hornblade\|Taern Hornblade]]** (High Mage of Silverymoon)
+  - **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Sir Isteval\|Sir Isteval]]** (Knight of Cormyr)
 
+---
+::pf
 ## Territory & Strongholds
 
 * **Primary Base:** [[Rise of Tiamat/03_Locations/Waterdeep\|Waterdeep]] — The glittering City of Splendors, serving as the political hub where the Council convenes to review the party's progress and issue new directives.
@@ -55,7 +56,7 @@
 | **[[Red Wizards of Thay\|Red Wizards of Thay]] (Splinter Faction)** | Neutral / Hostile | Viewed with deep suspicion, though certain pragmatic elements or splinter factions may offer indirect tactical leverage against Severin's main forces. |
 | **[[Lords' Alliance\|Lords' Alliance]]** | Allied | The political and military backbone of the Council, coordinating city-state defenses across the North. |
 | **[[The Harpers\|The Harpers]]** | Allied | Operates as the Council's primary intelligence and espionage arm, tracking cult movements and smuggling routes. |
-| **[[Order of the Gauntlet\|Order of the Gauntlet]]** | Allied | Provides fanatical martial resolve, paladin strike forces, and frontline defense for allied strongholds. |
-| **[[Emerald Enclave\|Emerald Enclave]]** | Allied | Monitors wilderness corridors, natural anomalies, and swamp approaches like the Mere of Dead Men. |
+| **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Order of the Gauntlet\|Order of the Gauntlet]]** | Allied | Provides fanatical martial resolve, paladin strike forces, and frontline defense for allied strongholds. |
+| **[[Rise of Tiamat/02_NPCs and Factions/Emerald Enclave\|Emerald Enclave]]** | Allied | Monitors wilderness corridors, natural anomalies, and swamp approaches like the Mere of Dead Men. |
 
 ---
