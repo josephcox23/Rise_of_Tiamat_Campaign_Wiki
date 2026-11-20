@@ -49,4 +49,12 @@
 
 ## Faction Relationships
 
+| Faction | Stance | Notes / Current Tension |
+| :--- | :--- | :--- |
+| **[[Rise of Tiamat/02_NPCs and Factions/Cult of the Dragon/Cult of the Dragon\|Cult of the Dragon]]** | Hostile | Total existential war; the Council actively funds and directs strike missions to crush their leadership and recover the Dragon Masks. |
+| **[[Rise of Tiamat/02_NPCs and Factions/Lords' Alliance\|Lords' Alliance]]** | Allied | The political and military backbone of the Council, coordinating city-state defenses across the North. |
+| **[[Rise of Tiamat/02_NPCs and Factions/Harpers\|The Harpers]]** | Allied | Operates as the Council's primary intelligence and espionage arm, tracking cult movements and smuggling routes. |
+| **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Order of the Gauntlet\|Order of the Gauntlet]]** | Allied | Provides fanatical martial resolve, paladin strike forces, and frontline defense for allied strongholds. |
+| **[[Rise of Tiamat/02_NPCs and Factions/Emerald Enclave\|Emerald Enclave]]** | Allied | Monitors wilderness corridors, natural anomalies, and swamp approaches like the Mere of Dead Men. |
+
 ---
