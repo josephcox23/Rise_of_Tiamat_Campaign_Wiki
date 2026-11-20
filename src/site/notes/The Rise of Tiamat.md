@@ -8,19 +8,10 @@
 
 ---
 
-## Campaign Navigation & Acts
-
-* **[[Introduction - The Cult Strikes\|The Aftermath & Call to Action]]** — The city of Waterdeep erupts as the cult strikes following your triumph in the vault.
-* **[[Act I - Masks & Allies\|Act I: Masks & Allies]]** — Council sessions, the swamp investigations at Castle Naerytar, and the High Road caravan heist.
-* **[[Act II - Dragon Council\|Act II: Dragon Council & The Frozen North]]** — Metallic dragon summits, navigating the Sea of Moving Ice, and the confrontation at the Ice Fortress.
-* **[[Act III - The Well of Dragons\|Act III: The Well of Dragons]]** — The final assault, cult defenses, and the ultimate showdown against Severin and the emergence of Tiamat.
-
----
-
 ## Factions & Political Powers
 
-* **[[The Council of Waterdeep\|The Council of Waterdeep]]** — The high-stakes assembly of Sword Coast delegates, faction leaders, and decision makers.
-* **[[Cult of the Dragon\|Cult of the Dragon]]** — The primary antagonists led by Severin and the Wyrmspeakers, attempting to pull Tiamat from the Nine Hells.
+* **[[02_NPCs and Factions/Waterdeep Council/Lords Alliance\|Lords Alliance]]** — The high-stakes assembly of Sword Coast delegates, faction leaders, and decision makers. [[[02\|[02]]]
+* **[[02_NPCs and Factions/Cult of the Dragon/Cult of the Dragon\|02_NPCs and Factions/Cult of the Dragon/Cult of the Dragon]]** — The primary antagonists led by Severin and the Wyrmspeakers, attempting to pull Tiamat from the Nine Hells.
 
 ---
 
