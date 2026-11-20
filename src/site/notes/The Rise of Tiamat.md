@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/the-rise-of-tiamat/","tags":["home","portal","rise-of-tiamat","gardenEntry"],"dg-note-properties":{"tags":["home","portal","rise-of-tiamat","gardenEntry"],"aliases":[]}}
+{"dg-publish":true,"permalink":"/the-rise-of-tiamat/","tags":["home","portal","rise-of-tiamat","gardenEntry"],"dg-note-properties":{"tags":["home","portal","rise-of-tiamat","gardenEntry"],"aliases":[],"pfn":true}}
 ---
-
-# Rise of Tiamat: Campaign Hub
 
 > [!quote] The Shadow of the Five-Headed Queen
 > *"The sky over the Sword Coast flashes with unnatural violet lightning and acidic green fire. The cult gathers its hoards, the masks are awakening, and the war for Faerûn has begun."*
