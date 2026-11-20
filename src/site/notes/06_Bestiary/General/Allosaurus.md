@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-bestiary/general/allosaurus/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/06-bestiary/general/allosaurus/","dg-note-properties":{"pfn":true}}
 ---
 
 ::pf
