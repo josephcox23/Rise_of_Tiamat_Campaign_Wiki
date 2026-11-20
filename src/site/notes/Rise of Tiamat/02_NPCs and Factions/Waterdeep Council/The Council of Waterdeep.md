@@ -26,19 +26,19 @@
 
 * **Leadership Structure:** An emergency coalition council composed of high-ranking representatives from the major Sword Coast factions (Lords' Alliance, Harpers, Order of the Gauntlet, Emerald Enclave, and Zhentarim), presided over by the Open Lord of Waterdeep.
 * **Notable NPCs:**
-  * **Laeral Silverhand:** *Open Lord of [[Rise of Tiamat/03_Locations/Waterdeep\|Waterdeep]] & Council Head* 
+  * **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Laeral Silverhand\|Laeral Silverhand]]:** *Open Lord of [[Rise of Tiamat/03_Locations/Waterdeep\|Waterdeep]] & Council Head* 
 	* A legendary, powerful mage who acts as the primary patron and strategic anchor for the party, granting them official backing and high-level missions.
  * Dagult Neverember: Lord of Neverwinter, 
 	  * focused heavily on regional defense and resource management.
-  - **Ontharr Frume** ([[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Order of the Gauntlet\|Order of the Gauntlet]])
-  - **Remallia Haventree** ([[Rise of Tiamat/02_NPCs and Factions/Harpers\|Harpers]])
+  - **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Ontharr Frume\|Ontharr Frume]]** ([[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Order of the Gauntlet\|Order of the Gauntlet]])
+  - **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Remallia Haventree\|Remallia Haventree]]** ([[Rise of Tiamat/02_NPCs and Factions/Harpers\|Harpers]])
   - **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Delaan Winterhound\|Delaan Winterhound]]** ([[Rise of Tiamat/02_NPCs and Factions/Emerald Enclave\|Emerald Enclave]])
   - **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Rian Nightshade\|Rian Nightshade]]** ([[Rise of Tiamat/02_NPCs and Factions/Zhentarim\|Zhentarim]])
   - **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Connerad Brawnanvil\|Connerad Brawnanvil]]** (King of Mithral Hall)
   - **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/King Melandrach\|King Melandrach]]** (King of the Elves - Misty Forest)
-  - **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Uldar Ravengard\|Uldar Ravengard]]** (Marshal of Baldur's Gate)
-  - **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Taern Hornblade\|Taern Hornblade]]** (High Mage of Silverymoon)
-  - **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Sir Isteval\|Sir Isteval]]** (Knight of Cormyr)
+  - **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Uldar Ravengard\|Uldar Ravengard]]** (Marshal of the [[Rise of Tiamat/02_NPCs and Factions/Flaming Fist\|Flaming Fist]],  [[Rise of Tiamat/03_Locations/Baldur's Gate\|Baldur's Gate]])
+  - **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Taern Hornblade\|Taern Hornblade]]** (High Mage of [[Rise of Tiamat/03_Locations/Silverymoon\|Silverymoon]])
+  - **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Sir Isteval\|Sir Isteval]]** (Knight of [[Rise of Tiamat/03_Locations/Cormyr\|Cormyr]])
 
 ---
 ::pf
@@ -48,15 +48,5 @@
 * **Outposts & Fronts:** Safehouses, embassy villas, and regional strongholds spanning the Sword Coast from the High Road and the Mere of Dead Men up to the Greypeak Mountains and Parnast.
 
 ## Faction Relationships
-
-| Faction | Stance | Notes / Current Tension |
-| :--- | :--- | :--- |
-| **[[Rise of Tiamat/02_NPCs and Factions/Cult of the Dragon/Cult of the Dragon\|Cult of the Dragon]]** | Hostile | Total existential war; the Council actively funds and directs strike missions to crush their leadership and recover the Dragon Masks. |
-| **Council of Metallic Dragons** | Allied (Negotiable) | Ancient good-aligned dragons (Gold, Silver, Bronze, Brass) whose respect must be won by the party to secure aerial military reinforcements. |
-| **[[Red Wizards of Thay\|Red Wizards of Thay]] (Splinter Faction)** | Neutral / Hostile | Viewed with deep suspicion, though certain pragmatic elements or splinter factions may offer indirect tactical leverage against Severin's main forces. |
-| **[[Lords' Alliance\|Lords' Alliance]]** | Allied | The political and military backbone of the Council, coordinating city-state defenses across the North. |
-| **[[The Harpers\|The Harpers]]** | Allied | Operates as the Council's primary intelligence and espionage arm, tracking cult movements and smuggling routes. |
-| **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Order of the Gauntlet\|Order of the Gauntlet]]** | Allied | Provides fanatical martial resolve, paladin strike forces, and frontline defense for allied strongholds. |
-| **[[Rise of Tiamat/02_NPCs and Factions/Emerald Enclave\|Emerald Enclave]]** | Allied | Monitors wilderness corridors, natural anomalies, and swamp approaches like the Mere of Dead Men. |
 
 ---

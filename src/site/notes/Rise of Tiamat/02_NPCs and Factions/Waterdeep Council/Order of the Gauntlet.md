@@ -39,9 +39,9 @@
 | Faction | Stance | Notes / Current Tension |
 | :--- | :--- | :--- |
 | **[[Rise of Tiamat/02_NPCs and Factions/Cult of the Dragon/Cult of the Dragon\|Cult of the Dragon]]** | Hostile | Total existential war; the Order views the Cult as an abomination that must be purged with righteous steel. |
-| **[[Council of Waterdeep\|Council of Waterdeep]]** | Allied | A core founding member, providing unshakeable martial resolve and front-line defense for the coalition. |
-| **[[The Harpers\|The Harpers]]** | Allied | Works closely with Harper intelligence, translating shadow information into open, decisive tactical strikes. |
-| **[[02_NPCs and Factions/Emerald Enclave\|Emerald Enclave]]** | Allied | Cooperates to protect the wilderness frontiers, though the Order prefers fortified justice over untamed balance. |
-| **[[02_NPCs and Factions/Zhentarim\|Zhentarim]]** | Suspicious / Neutral | Tolerated strictly out of wartime necessity, though the Order despises the Black Network's criminal methods. |
+| **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/The Council of Waterdeep\|The Council of Waterdeep]]** | Allied | A core founding member, providing unshakeable martial resolve and front-line defense for the coalition. |
+| **[[Rise of Tiamat/02_NPCs and Factions/Harpers\|The Harpers]]** | Allied | Works closely with Harper intelligence, translating shadow information into open, decisive tactical strikes. |
+| **[[Rise of Tiamat/02_NPCs and Factions/Emerald Enclave\|Emerald Enclave]]** | Allied | Cooperates to protect the wilderness frontiers, though the Order prefers fortified justice over untamed balance. |
+| **[[Rise of Tiamat/02_NPCs and Factions/Zhentarim\|Zhentarim]]** | Suspicious / Neutral | Tolerated strictly out of wartime necessity, though the Order despises the Black Network's criminal methods. |
 
 ---

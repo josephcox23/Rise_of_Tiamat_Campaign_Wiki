@@ -50,7 +50,7 @@
 | :--- | :--- | :--- |
 | **[[Council of Waterdeep\|Council of Waterdeep]]** (Lords' Alliance, Harpers, Order of the Gauntlet, Emerald Enclave, Zhentarim) | **Hostile** | Lady Laeral Silverhand and the united Sword Coast factions are actively funding and directing strike missions to dismantle the Cult. |
 | **[[Red Wizards of Thay\|Red Wizards of Thay]]** (Splinter Faction) | **Allied** | Rogue Thayan necromancers and archmages provide the dark arcane ritual power required to open Tiamat's planar gate. |
-| **[[Chromatic Dragons\|Chromatic Dragons]]** (Glazhael, Chuth, etc.) | **Allied / Coerced** | Bound through ancient draconic magic, promises of vast hoards, and the authority of the Dragon Masks—though proud dragons like Glazhael can be turned or forced to withdraw. |
+| **[[02_NPCs and Factions/Cult of the Dragon/Chromatic Dragons\|Chromatic Dragons]]** (Glazhael, Chuth, etc.) | **Allied / Coerced** | Bound through ancient draconic magic, promises of vast hoards, and the authority of the Dragon Masks—though proud dragons like Glazhael can be turned or forced to withdraw. |
 | **Council of Metallic Dragons** | **Hostile** | Ancient Gold, Silver, Bronze, Brass, and Copper dragons view the Cult's summoning of Tiamat as an existential threat to all dragonkind. |
 | **[[Lizardfolk of the Mere\|Lizardfolk of the Mere]]** (Snapjaw's Tribe) | **Hostile** | Formerly enslaved as laborers at Castle Naerytar; revolted against the Cult with the party's help. |
 

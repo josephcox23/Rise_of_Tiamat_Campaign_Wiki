@@ -19,6 +19,4 @@
 | Faction                      | Presence / Control          | Notes & Tensions                               |
 | :--------------------------- | :-------------------------- | :--------------------------------------------- |
 | **[[Rise of Tiamat/02_NPCs and Factions/Cult of the Dragon/Cult of the Dragon\|Cult of the Dragon]]**    | Dominant                    | *The primary occupiers and ritual organizers led by Supreme Leader Severin.* |
-| **[[Council of Waterdeep\|Council of Waterdeep]]** | Contested                   | *Coordinates the allied Sword Coast armies and the party's infiltration strike.* |
-| **Council of Metallic Dragons** | Contested            | *Ancient gold, silver, bronze, and brass dragons providing crucial aerial military reinforcement.* |
-| **[[Red Wizards of Thay\|Red Wizards of Thay]]**  | Contested                   | *Splinter faction providing the dark arcane spellcasting power required to open Tiamat's portal.* |
+| **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/The Council of Waterdeep\|The Council of Waterdeep]]** | Contested                   | *Coordinates the allied Sword Coast armies and the party's infiltration strike.* |

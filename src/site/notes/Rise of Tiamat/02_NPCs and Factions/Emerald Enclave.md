@@ -37,9 +37,9 @@
 | Faction | Stance | Notes / Current Tension |
 | :--- | :--- | :--- |
 | **[[Rise of Tiamat/02_NPCs and Factions/Cult of the Dragon/Cult of the Dragon\|Cult of the Dragon]]** | Hostile | Total war; the Enclave views the Cult's destruction of nature and despoliation of lands as an unforgivable sacrilege. |
-| **[[Council of Waterdeep\|Council of Waterdeep]]** | Allied | Participates in the coalition to stop Tiamat, though Delaan Winterhound often remains wary of city politics. |
-| **[[The Harpers\|The Harpers]]** | Allied | Shares intelligence regarding wilderness routes, remote cult camps, and secret supply lines. |
+| **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/The Council of Waterdeep\|The Council of Waterdeep]]** | Allied | Participates in the coalition to stop Tiamat, though Delaan Winterhound often remains wary of city politics. |
+| **[[Rise of Tiamat/02_NPCs and Factions/Harpers\|The Harpers]]** | Allied | Shares intelligence regarding wilderness routes, remote cult camps, and secret supply lines. |
 | **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/Order of the Gauntlet\|Order of the Gauntlet]]** | Allied | Cooperates to protect the wilderness frontiers, though the Enclave prefers balanced ecology over armored crusades. |
-| **Zhentarim** | Neutral | Mutual avoidance, though occasional practical contact occurs in remote borderlands. |
+| **[[Rise of Tiamat/02_NPCs and Factions/Zhentarim\|Zhentarim]]** | Neutral | Mutual avoidance, though occasional practical contact occurs in remote borderlands. |
 
 ---

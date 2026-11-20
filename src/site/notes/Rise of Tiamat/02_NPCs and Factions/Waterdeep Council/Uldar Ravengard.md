@@ -5,7 +5,7 @@
 
 # Uldar Ravengard
 
-*The formidable Grand Duke of Baldur's Gate and Marshal of the Flaming Fist, representing uncompromising martial might on the Council.*
+*The formidable Grand Duke of Baldur's Gate and Marshal of the [[02_NPCs and Factions/Flaming Fist\|Flaming Fist]], representing uncompromising martial might on the Council.*
 
 > [!abstract] Quick Profile
 > - **Pronouns:** He/Him
@@ -24,7 +24,7 @@
 
 ## Connections & Relationships
 
-- **Baldur's Gate & The Flaming Fist:** His city and mercenary army, providing the backbone of heavy infantry for coalition war efforts.
+- **[[Rise of Tiamat/03_Locations/Baldur's Gate\|Baldur's Gate]] & The Flaming Fist:** His city and mercenary army, providing the backbone of heavy infantry for coalition war efforts.
 - **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/The Council of Waterdeep\|The Council of Waterdeep]]:** A key military voice, frequently clashing with more diplomatic members over tactical priorities.
 - **The Party:** Valued independent operators capable of striking high-value targets that regular armies cannot reach.
 

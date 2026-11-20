@@ -28,7 +28,7 @@
 
 | Faction | Presence / Control | Notes & Tensions |
 | :--- | :--- | :--- |
-| **[[Lords' Alliance\|Lords' Alliance]] / [[Flaming Fist\|Flaming Fist]]** | Dominant | *Uldar Ravengard and the Flaming Fist maintain strict martial law and mercenary oversight.* |
+| **[[02_NPCs and Factions/Lords' Alliance\|Lords' Alliance]] / [[02_NPCs and Factions/Flaming Fist\|Flaming Fist]]** | Dominant | *Uldar Ravengard and the Flaming Fist maintain strict martial law and mercenary oversight.* |
 | **[[Council of Waterdeep\|Council of Waterdeep]]** | Allied | *Coordinates continental defense and coalition logistics against the Cult of the Dragon.* |
 | **[[The Zhentarim\|The Zhentarim]]** | Contested / Shadow | *The Black Network maintains extensive underground smuggling rings and shadow influence in the lower wards.* |
 | **[[Rise of Tiamat/02_NPCs and Factions/Cult of the Dragon/Cult of the Dragon\|Cult of the Dragon]]** | Hostile / Infiltrated | *Cult agents operate in secret cells to funnel stolen wealth and recruit desperate mercenaries.* |

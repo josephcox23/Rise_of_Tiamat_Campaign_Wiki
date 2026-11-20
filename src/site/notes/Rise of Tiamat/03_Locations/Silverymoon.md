@@ -28,8 +28,8 @@
 
 | Faction | Presence / Control | Notes & Tensions |
 | :--- | :--- | :--- |
-| **[[Lords' Alliance\|Lords' Alliance]] / [[Rise of Tiamat/03_Locations/Silverymoon\|Silverymoon]]** | Dominant | *Taern Hornblade and the ruling council govern with wisdom, magical defense, and diplomacy.* |
-| **[[Council of Waterdeep\|Council of Waterdeep]]** | Allied | *Contributes high-level arcane scholarship, defensive warding expertise, and magical assets to the alliance.* |
+| **[[Rise of Tiamat/02_NPCs and Factions/Lords' Alliance\|Lords' Alliance]] / [[Rise of Tiamat/03_Locations/Silverymoon\|Silverymoon]]** | Dominant | *Taern Hornblade and the ruling council govern with wisdom, magical defense, and diplomacy.* |
+| **[[Rise of Tiamat/02_NPCs and Factions/Waterdeep Council/The Council of Waterdeep\|The Council of Waterdeep]]** | Allied | *Contributes high-level arcane scholarship, defensive warding expertise, and magical assets to the alliance.* |
 | **[[Rise of Tiamat/02_NPCs and Factions/Cult of the Dragon/Cult of the Dragon\|Cult of the Dragon]]** | Hostile | *Targeted by cult saboteurs attempting to steal ancient magical tomes and artifacts from the Vault of the Sages.* |
 
 ## Local Economy & Resources
