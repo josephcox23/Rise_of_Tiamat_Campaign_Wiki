@@ -6,14 +6,14 @@
 # The Morning After & Faction Mobilization
 
 ## DM Objective
-In this opening transition, the players realize they are no longer safe staying inside [[_player/03_Locations/Waterdeep\|Waterdeep]]. The objective is to establish their new baseline at Level 9, deliver the competitive offers from the council factions, and have the party select their logistical backing for **Mission 1 - The Mere of Dead Men**.
+In this opening transition, the players realize they are no longer safe staying inside [[z_player/03_Locations/Waterdeep\|Waterdeep]]. The objective is to establish their new baseline at Level 9, deliver the competitive offers from the council factions, and have the party select their logistical backing for **Mission 1 - The Mere of Dead Men**.
 
 ---
 
 ## Scene Setup & Read-Aloud Text
 > The blinding white flash of Lady Laeral’s teleportation magic eventually fades from your eyes, leaving you in the cold, quiet interior of a high-security Lords' Alliance safehouse in the Sea Ward. The ringing in your ears is replaced by the steady, rhythmic drumming of rain against heavy leaded windows. 
 > 
-> You have survived an assassination attempt in the very heart of the city, held an emergency council session, and held fragments of lore detailing weapons of primordial power meant for your hands. But as dawn breaks over [[_player/03_Locations/Waterdeep\|Waterdeep]], the air feels heavier. You can still feel that faint, sickening tremor beneath the marble floorboards—the city’s ancient protective wards are actively fracturing.
+> You have survived an assassination attempt in the very heart of the city, held an emergency council session, and held fragments of lore detailing weapons of primordial power meant for your hands. But as dawn breaks over [[z_player/03_Locations/Waterdeep\|Waterdeep]], the air feels heavier. You can still feel that faint, sickening tremor beneath the marble floorboards—the city’s ancient protective wards are actively fracturing.
 > 
 > A soft knock sounds at the safehouse door. It isn't an assassin, but a trusted Alliance page. He slides a heavy iron tray beneath the bolt. On it sits a fresh breakfast, a map of the High Road leading north, and five sealed parchment letters, each bearing a different wax crest. The factions have made their moves.
 
@@ -26,7 +26,7 @@ The players have chosen **Lady [[_player/02_NPCs and Factions/Waterdeep Council/
 ### 1. The Lords' Alliance (Lady [[_player/02_NPCs and Factions/Waterdeep Council/Laeral Silverhand\|Laeral Silverhand]]) — *PRIMARY*
 
 * **The Angle:** Discretion, statecraft, and tracking the destabilization of the North.
-* **The Letter:** *"The tremors you felt are real; our wards are bleeding power. The Cult intends to paralyze [[_player/03_Locations/Waterdeep\|Waterdeep]] while they secure the Mere of Dead Men. I cannot send an army without triggering a civil panic. Go as ghosts. Take these wards from the palace vaults—let our fading defenses protect you where I cannot send soldiers."*
+* **The Letter:** *"The tremors you felt are real; our wards are bleeding power. The Cult intends to paralyze [[z_player/03_Locations/Waterdeep\|Waterdeep]] while they secure the Mere of Dead Men. I cannot send an army without triggering a civil panic. Go as ghosts. Take these wards from the palace vaults—let our fading defenses protect you where I cannot send soldiers."*
 * **Silver Warding Tokens**
 
 ### 2. The Harpers ([[_player/02_NPCs and Factions/Waterdeep Council/Remallia Haventree\|Remallia Haventree]])
@@ -102,5 +102,5 @@ description: |
 
 # Session Summary
 
-- Having survived an assassination attempt in [[_player/03_Locations/Waterdeep\|Waterdeep]], the party regrouped in a Lords' Alliance safehouse. They accepted Lady [[_player/02_NPCs and Factions/Waterdeep Council/Laeral Silverhand\|Laeral Silverhand]] as their primary patron, unlocking the Silver Warding Tokens.  
+- Having survived an assassination attempt in [[z_player/03_Locations/Waterdeep\|Waterdeep]], the party regrouped in a Lords' Alliance safehouse. They accepted Lady [[_player/02_NPCs and Factions/Waterdeep Council/Laeral Silverhand\|Laeral Silverhand]] as their primary patron, unlocking the Silver Warding Tokens.  
 - They received a map of the High Road and faction letters offering competing rewards. The party set out as ghosts to intercept these faction leads while traveling north toward the Mere of Dead Men.  
